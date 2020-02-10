@@ -9,12 +9,7 @@ spring:
           uri: https://github.com/Guard-2020/sp-config
           searchPaths: config
           #username: your-username
-          #password: your-password
-  rabbitmq:
-    host: 192.168.64.140
-    port: 5672
-    username: admin
-    password: admin    
+          #password: your-password 
 server:
   port: 6001
     
